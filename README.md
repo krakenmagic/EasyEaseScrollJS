@@ -1,0 +1,2 @@
+# EasyEaseScrollJS
+planplanさんで作成したスクロールJS
